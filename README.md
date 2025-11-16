@@ -36,7 +36,7 @@ Clean and simple user interaction
 
 ⚙️ How to Run the Application
 1️⃣ Download or clone the project
-git clone https://github.com/your-username/crud-application.git
+git clone https://github.com/yaswanthaddula/Web-Development-Minor-Project
 2️⃣ Open the project
 Go to your folder:
 
